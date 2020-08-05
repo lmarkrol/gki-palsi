@@ -420,7 +420,7 @@ background-color:#A9A9A9;
 color:#222222; 
 }
 .btmint{
-background-color:#61bb7e;
+background-color:#A9A9A9;
 color:#fff;
 }
 /*===============================================*/
@@ -653,7 +653,7 @@ padding:5px 0 0 0;
 .main_nav_icons_inline_2 ul li a{
 font-size:10px;
 font-weight:400;
-color:#fff;
+color:#414141;
 letter-spacing:1px;
 text-transform:uppercase;
 }
@@ -923,7 +923,7 @@ margin:0;
 font-size:12px;
 padding:5px;
 font-weight:300;
-color:#fff;
+color:#414141;
 /* background-color:#0abb85; */
 background-color:#d3d3d3;
 display:inline;
@@ -1013,7 +1013,7 @@ background: #000;
 }
 .swiper-button-next{
   /* background:url(images/nav-next.png) no-repeat center #0abb85;  */
-  background:url(images/nav-next.png) no-repeat center #d3d3d3; 
+  background:url(images/nav-next-black.png) no-repeat center #d3d3d3; 
 	width: 40px;
     height: 40px;
 	bottom:22%;
@@ -1021,7 +1021,7 @@ background: #000;
 }
 .swiper-button-prev{
   /* background:url(images/nav-prev.png) no-repeat center #0abb85;  */
-  background:url(images/nav-prev.png) no-repeat center #d3d3d3; 
+  background:url(images/nav-prev-black.png) no-repeat center #d3d3d3; 
 	width: 40px;
     height: 40px;
 	bottom:22%;
