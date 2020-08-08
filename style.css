@@ -248,15 +248,9 @@ max-width:100%;
 padding:8px 0 0 0;
 }
 .logo_text{ 
-<<<<<<< HEAD
 font-size:34px;
 line-height:10px;
 font-weight:1500;
-=======
-font-size:22px;
-line-height:50px;
-font-weight:2500;
->>>>>>> 39945ea0d9f40dba03003b9b0e733d46585bd301
 }
 .logo_text a{
 color:#ffffff;
@@ -2624,8 +2618,8 @@ height:40px;
 margin:0;
 }
 .logo_text{ 
-font-size:22px;
-line-height:50px;
+font-size:20px;
+line-height:40px;
 }
 .logo_image a img{ 
 max-width:50%;
