@@ -1,11 +1,5 @@
 /*==============================================
 [Main stylesheet style.css]
-
-Author:	SINDEVO.COM - Smart Interface Development
-Version:	1.0
-Created:	22 January 2018
-Last updated:	22 January 2018
-Template:	BLIX - Mobile HTML Template
 ================================================*/
 /*
 
@@ -13,33 +7,7 @@ MAIN COLOR THEME = #d3d3d3
 BUTTON COLOR THEME = #A9A9A9
 GRID LINE COLOR THEME = #808080
 
-[Table of Contents]
 
-1. RESET
-2. GENERAL
-3. H TITLES
-4. HEADER AND HEADER NAVIGATION
-5. CUSTOM BUTTONS
-6. LEFT AND RIGHT SLIDE PANELS
-    6-1. USER ACCOUNT SIDEBAR RIGHT
-    6-2. MAIN NAVIGATION SIDEBAR LEFT
-7. PAGES LAYOUT GENERAL
-    7-1. SWIPE SLIDER
-    7-2. FEATURED LISTS
-    7-3. TEAM DESIGN LAYOUT
-    7-4. MUSIC LIST DESIGN LAYOUT
-8. POPUPS
-9. SHOP LAYOUT
-     9-1. SHOP ITEM PAGE 
-     9-2. SHOPPING CART - CECKOUT
-     9-3. SUCCESS PAGE
-10. PHOTO GALLERY
-11. BLOG LAYOUT
-12. FORMS
-      12.1 LOGIN FORM
-      12.2 CONTACT FORM
-13. TABS / ACCORDION / TABLES
-14. MEDIA QUERIES
 */
 /*===============================================*/
 /* 1. RESET		 						 */
@@ -281,7 +249,7 @@ padding:8px 0 0 0;
 }
 .logo_text{ 
 font-size:34px;
-line-height:70px;
+line-height:10px;
 font-weight:1500;
 }
 .logo_text a{
