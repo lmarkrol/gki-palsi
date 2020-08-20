@@ -764,10 +764,11 @@ margin:0 5%;
   height:100%;
 }
 .layout_fullheight_padding{
-  width:90%;
+  width:100%;
   height:100%;
   margin:0 5%;
   text-align: center;
+  vertical-align: center;
 }
 
 .page_single ul.simple_list{
